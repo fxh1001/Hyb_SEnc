@@ -1,0 +1,342 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?orkqwr');
+  src: url('fonts/icomoon.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon.woff?orkqwr') format('woff'),
+    url('fonts/icomoon.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+.icon-phone-call:before {
+  content: "\e900";
+}
+
+.icon-message:before {
+  content: "\e901";
+}
+
+.icon-facebook:before {
+  content: "\e902";
+}
+
+.icon-twitter:before {
+  content: "\e903";
+}
+
+.icon-linkedin:before {
+  content: "\e904";
+}
+
+.icon-youtube:before {
+  content: "\e905";
+}
+
+.icon-back-in-time:before {
+  content: "\e906";
+}
+
+.icon-location:before {
+  content: "\e907";
+}
+
+.icon-magnifying-glass:before {
+  content: "\e908";
+}
+
+.icon-right-arrow:before {
+  content: "\e909";
+}
+
+.icon-right-arrow1:before {
+  content: "\e90a";
+}
+
+.icon-consulting:before {
+  content: "\e90b";
+}
+
+.icon-meditation:before {
+  content: "\e90c";
+}
+
+.icon-personality:before {
+  content: "\e90d";
+}
+
+.icon-negative:before {
+  content: "\e90e";
+}
+
+.icon-play:before {
+  content: "\e90f";
+}
+
+.icon-happy:before {
+  content: "\e910";
+}
+
+.icon-psychologist:before {
+  content: "\e911";
+}
+
+.icon-counseling:before {
+  content: "\e912";
+}
+
+.icon-mental-health:before {
+  content: "\e913";
+}
+
+.icon-crm:before {
+  content: "\e914";
+}
+
+.icon-dissociative-identity-disorder:before {
+  content: "\e915";
+}
+
+.icon-conversation:before {
+  content: "\e916";
+}
+
+.icon-brain:before {
+  content: "\e917";
+}
+
+.icon-consultation:before {
+  content: "\e918";
+}
+
+.icon-human-brain:before {
+  content: "\e919";
+}
+
+.icon-doctor:before {
+  content: "\e91a";
+}
+
+.icon-report:before {
+  content: "\e91b";
+}
+
+.icon-call:before {
+  content: "\e91c";
+}
+
+.icon-consultation-1:before {
+  content: "\e91d";
+}
+
+.icon-certificate:before {
+  content: "\e91e";
+}
+
+.icon-family:before {
+  content: "\e91f";
+}
+
+.icon-communication:before {
+  content: "\e920";
+}
+
+.icon-discussion:before {
+  content: "\e921";
+}
+
+.icon-solution:before {
+  content: "\e922";
+}
+
+.icon-right:before {
+  content: "\e923";
+}
+
+.icon-share:before {
+  content: "\e924";
+}
+
+.icon-agreement:before {
+  content: "\e925";
+}
+
+.icon-medal:before {
+  content: "\e926";
+}
+
+.icon-good-review:before {
+  content: "\e927";
+}
+
+.icon-star:before {
+  content: "\e928";
+}
+
+.icon-star-1:before {
+  content: "\e929";
+}
+
+.icon-black-back-closed-envelope-shape:before {
+  content: "\e92a";
+}
+
+.icon-map-pin:before {
+  content: "\e92b";
+}
+
+.icon-telephone:before {
+  content: "\e92c";
+}
+
+.icon-down:before {
+  content: "\e92d";
+}
+
+.icon-up:before {
+  content: "\e92e";
+}
+
+.icon-right1:before {
+  content: "\e92f";
+}
+
+.icon-down1:before {
+  content: "\e930";
+}
+
+.icon-time:before {
+  content: "\e931";
+}
+
+.icon-phone-call-1:before {
+  content: "\e932";
+}
+
+.icon-mental-health-1:before {
+  content: "\e933";
+}
+
+.icon-healthcare:before {
+  content: "\e934";
+}
+
+.icon-thinking:before {
+  content: "\e935";
+}
+
+.icon-checked:before {
+  content: "\e936";
+}
+
+.icon-psychologist-1:before {
+  content: "\e937";
+}
+
+.icon-patient:before {
+  content: "\e938";
+}
+
+.icon-badge:before {
+  content: "\e939";
+}
+
+.icon-office:before {
+  content: "\e93a";
+}
+
+.icon-plus:before {
+  content: "\e93b";
+}
+
+.icon-minus:before {
+  content: "\e93c";
+}
+
+.icon-quote:before {
+  content: "\e93d";
+}
+
+.icon-user:before {
+  content: "\e93e";
+}
+
+.icon-speech-bubble:before {
+  content: "\e93f";
+}
+
+.icon-menu:before {
+  content: "\e940";
+}
+
+.icon-login:before {
+  content: "\e941";
+}
+
+.icon-couple-counseling:before {
+  content: "\e942";
+}
+
+.icon-expert:before {
+  content: "\e943";
+}
+
+.icon-global-warming:before {
+  content: "\e944";
+}
+
+.icon-agent:before {
+  content: "\e945";
+}
+
+.icon-breathing:before {
+  content: "\e946";
+}
+
+.icon-checkbox-mark:before {
+  content: "\e947";
+}
+
+.icon-tick:before {
+  content: "\e948";
+}
+
+.icon-download-pdf:before {
+  content: "\e949";
+}
+
+.icon-file:before {
+  content: "\e94a";
+}
+
+.icon-heart:before {
+  content: "\e94b";
+}
+
+.icon-quote-1:before {
+  content: "\e94c";
+}
+
+.icon-burger-bar:before {
+  content: "\e94d";
+}
